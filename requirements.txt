@@ -3,3 +3,4 @@ scikit-learn
 pywin32   // Only for windows
 
 pyobjc
+pyttsx3 //for text to speach
